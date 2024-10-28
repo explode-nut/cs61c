@@ -1,0 +1,16 @@
+# cs61c-sp2024
+## lab完成情况
+> lab6,lab7,lab8为su2024版本
+- lab01✅
+- lab02✅
+- lab03✅
+- lab04✅
+- lab05✅
+- lab06✅
+- lab07✅
+- lab08✅
+## project完成情况
+> project3为su2024版本
+- project1✅
+- project2✅
+- project3❌
